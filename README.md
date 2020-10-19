@@ -130,8 +130,3 @@ BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance ski
 <a href="https://glitch.com/edit/?utm_content=project_mywebsitebts&utm_source=remix_this&utm_medium=button&utm_campaign=glitchButton#!/remix/mywebsitebts">
   <img src="https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix%402x.png?1513093958726" alt="remix this" height="33">
 </a>
-<!-- Project Helper -->
-<!-- ✂️ Copy this script to your project's view: -->
-<script src="https://button.glitch.me/button.js"></script>
-<!-- ✂️ Copy this to wherever you want the button to show: -->
-<div class="glitchButton"></div>
