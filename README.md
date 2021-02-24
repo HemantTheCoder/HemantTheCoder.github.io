@@ -120,7 +120,7 @@ BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance ski
 # You are more than welcome to make our website more better.You can create a pull request whenever you feel like we can get a new upgrade.
 # Else you can always contact us at :- [hemantthecoder@gmail.com](mailto:hemantthecoder@gmail.com)
 # Special Thanks To [lilyandirene](https://github.com/lilyandirene) For Providing Such Extensive Description
-# If You Remix My Project Please Mention My Name (@HemantTheCoder).
+# If You Remix My Project Please Mention My Name [(@HemantTheCoder)](https://github.com/HemantTheCoder).
 # Thanks
 <!-- View Source Button -->
 <a href="https://glitch.com/edit/?utm_content=project_mywebsitebts&utm_source=view_source&utm_medium=button&utm_campaign=glitchButton#!/mywebsitebts">
