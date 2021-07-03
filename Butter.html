@@ -1,58 +1,31 @@
 <!DOCTYPE html>
 <html>
    <head>
+     <link rel="stylesheet" href="styles.css">
       <script type="text/javascript">
          <a href="https://www.hemantthecoder.github.io/" title="View Counter"><img src="https://counter2.stat.ovh/private/freecounterstat.php?c=pkn24pcwrcebpfp96tl9apzxtgxkh58y" border="0" title="Views"></a>
       </script>
      <style>
-       h3 {
-  background-color: #FFFF33;
+       .parallax {
+  background-image: url("https://cdn.glitch.com/a8a0f0ad-f0e6-4956-aac7-c785020d0071%2Fhttps___specials-images.forbesimg.com_imageserve_60c12dd86d184ad54a64d2a3_0x0.jpg?v=1624454337747");
+
+  /* Set a specific height */
+  min-height: auto;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-       h1 {
-  background-color: #FFFF33;
-}
-        [class*="col-"] {
-  width: 100%;
-}
-.responsive {
-  width: 100%;
-  height: auto;
-}
-       body{
-         cursor:url("https://cdn.glitch.com/a8a0f0ad-f0e6-4956-aac7-c785020d0071%2FArmybomb.cur?v=1625050561005"), auto;
-         }
        </style>
       <meta name="Author" content="Hemant">
       <meta name="Description" content="This Is A Website For BTS Fans To Know More About Them , Made By Hemant">
       <title>BTS</title>
    </head>
    <centre>
-   <body background="https://cdn.glitch.com/a8a0f0ad-f0e6-4956-aac7-c785020d0071%2Fhttps___specials-images.forbesimg.com_imageserve_60c12dd86d184ad54a64d2a3_0x0.jpg?v=1624454337747">
-     <select name="clr" onchange="document.bgColor=this.options[this.selectedIndex].value" size="1">
-    <br>
-    <option value="black">black
-        <option value="orange">orange
-            <option value="flamingred">fuschia
-                <option value="lightyellow">light yellow
-                    <option value="green">green
-                        <option value="cyan">cyan
-                            <option value="yellow">yellow
-                                <option value="red">red
-                                    <option value=”white”>white</option>
-</select>&nbsp;&nbsp;Background Color
-
-<br>
-<select name="clr" onchange="document.fgColor=this.options[this.selectedIndex].value" size="1">
-    <br>
-    <option value="black">black
-        <option value="orange">orange
-            <option value="flamingred">fuschia
-                <option value="lightyellow">light yellow
-                    <option value="cyan">cyan
-                        <option value="yellow">yellow
-                            <option value="red">red
-                                <option value="white">white</option>
-    </select>&nbsp;&nbsp;Text Color
+   <body>
+     <div class="parallax">
       <b>
          <i>
             <u>
@@ -61,32 +34,6 @@
          </i>
       </b>
       <nav>
-          <SCRIPT>
-function passWord() {
-var testV = 1;
-var pass1 = prompt('Please Enter Your Password',' ');
-while (testV < 3) {
-if (!pass1)
-history.go(-1);
-if (pass1.toLowerCase() == "aboutmedev") {
-alert('You Got it Right!');
-window.open('aboutme.html');
-break;
-}
-testV+=1;
-var pass1 =
-prompt('Access Denied - Password Incorrect, Please Try Again.','Password');
-}
-if (pass1.toLowerCase()!="password" & testV ==3)
-history.go(-1);
-return " ";
-}
-</SCRIPT>
-<CENTER>
-<FORM>
-<input type="button" value="Enter Protected Area" onClick="passWord()">
-</FORM>
-</CENTER>
          <center>
          <h4>View Count</h4>
          <a href="index.html" target="_blank">
@@ -110,11 +57,6 @@ return " ";
          <button>
             <center>
             <a href="videos.html">Latest Videos</a>
-         </button>
-         <br>
-         <button>
-            <center>
-            <a href="https://myblackpinkwebsite.glitch.me/" target="blank">Blackpink Website</a>
          </button>
          <br>
       </nav>
@@ -144,10 +86,9 @@ At a press conference held on release day, RM revealed that while the band wante
 
 A video teaser released on May 18, provided the first preview of the song's lyrics—the line "Get it! Let it roll!" was briefly heard at the end of the clip. Korean news media later reported that "Butter"'s lyrics "cutely confess a sweet, romantic love" and has "BTS' smooth-like-butter unrivalled charms melted into the song".
        </center></h3>
-      <center>
-         <button><a href="https://en.wikipedia.org/wiki/Butter_(song)">Know More</a></button>
+         <center>
+        <a href="https://en.wikipedia.org/wiki/Butter_(song)" class="btn red block circular">Know More</a>
       </center>
-      <hr>
 
    </body>
  </html>
