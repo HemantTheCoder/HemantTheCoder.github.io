@@ -9,7 +9,7 @@ Kpop is music from South Korea that started around the 90's. Solo artists and ba
 BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance skills, their music speaks about mental health and growing up, and they currently pave the way for more Kpop artists to gain visibility in the West.
 
 
-  ### [Kim Seokjin](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/Kim-Seokjin) **(Jin)**
+  ### [Kim Seokjin](https://mywebsitebts.glitch.me/jin.html) **(Jin)**
 ![](https://github.com/lilyandirene/BangtanBoys.github.io/blob/master/jin%202.jpg)
       
 - Born on December 4, 1992, Gwacheon, South Korea
@@ -18,7 +18,7 @@ BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance ski
       
 - Nicknames are _Pink princess_ and _Worldwide Handsome_
       
-  ### [Min Yoongi](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/Min-Yoongi) **(Suga)**
+  ### [Min Yoongi](https://mywebsitebts.glitch.me/suga.html) **(Suga)**
 ![](https://github.com/lilyandirene/BangtanBoys.github.io/blob/master/salt%202.png)
   
 - Born on March 9, 1993, Daegu, South Korea
@@ -27,7 +27,7 @@ BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance ski
       
 - Nickname is _Min Suga_
       
-  ### [Jung Hoseok](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/Jung-Hoseok) **(J-Hope)**
+  ### [Jung Hoseok](https://mywebsitebts.glitch.me/jhope.html) **(J-Hope)**
 ![](https://github.com/lilyandirene/BangtanBoys.github.io/blob/master/jhope%202.jpg)
   
 - Born on February 18, 1994, Gwangju, South Korea
@@ -36,7 +36,7 @@ BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance ski
       
 - Nicknames are _Hobi_ and _Sunshine_ 
   
-  ### [Kim Namjoon](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/Kim-Namjoon) **(RM)**
+  ### [Kim Namjoon](https://mywebsitebts.glitch.me/rm.html) **(RM)**
 ![](https://github.com/lilyandirene/BangtanBoys.github.io/blob/master/rm%202.jpg)
   
 - Born on September 12, 1994, Ilsan, South Korea
@@ -45,7 +45,7 @@ BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance ski
       
 - Nickname is _God of Destruction_ because he's clumsy
   
-  ### [Park Jimin](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/Park-Jimin)
+  ### [Park Jimin](https://mywebsitebts.glitch.me/jimin.html)
 ![](https://github.com/lilyandirene/BangtanBoys.github.io/blob/master/jm%202.jpg)  
 
 - Born on October 13, 1995, Busan, South Korea
@@ -54,7 +54,7 @@ BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance ski
       
 - Nicknames are _Jiminie_, _Chim Chim_, _Chimmy_, and _Mochi_ 
   
-  ### [Kim Taehyung](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/Kim-Taehyung) **(V)**
+  ### [Kim Taehyung](https://mywebsitebts.glitch.me/aboutmembers.html) **(V)**
 ![](https://github.com/lilyandirene/BangtanBoys.github.io/blob/master/v.jpg)
   
 - Born on December 30, 1995, Daegu, South Korea
@@ -63,7 +63,7 @@ BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance ski
       
 - Nicknames are _Tae_, _Taetae_, and _Blank Tae_ 
   
-  ### [Jeon Jungkook](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/Jeon-Jungkook)
+  ### [Jeon Jungkook](https://mywebsitebts.glitch.me/jk.html)
 ![](https://github.com/lilyandirene/BangtanBoys.github.io/blob/master/DJFE0WjUIAAr2wk.jpg)
   
 - Born on September 1, 1997, Busan, South Korea
